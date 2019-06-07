@@ -1,7 +1,7 @@
 package Strings;
 /*
     709. To Lower Case
-    Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
+    Implement function ToLowerCase709E() that has a string parameter str, and returns the same string in lowercase.
 
     ASCII value of 'A' is 65 and the ASCII value of 'a' is 97, so 65+97=32
 
@@ -26,7 +26,7 @@ package Strings;
     Time Complexity : O(n)
     Space Complexity: O(1)
  */
-public class ToLowerCase {
+public class ToLowerCase709E {
 
     public static void main(String args[]) {
         String str = "World";
