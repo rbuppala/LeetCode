@@ -18,7 +18,7 @@ Example 3:
 Input: 120
 Output: 21
  */
-public class ReverseInteger {
+public class ReverseInteger7E {
 
     static int reverseNum = 0;
     static int basePos = 1;
