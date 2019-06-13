@@ -21,7 +21,7 @@ Example 2:
 Input: [4,1,2,1,2]
 Output: 4
  */
-public class SingleNumber {
+public class SingleNumber136E {
 
     public static void main(String args[]) {
         int[] array = {4,1,2,1,2};
