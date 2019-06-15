@@ -65,11 +65,8 @@ public class MiddleOfLinkedList876E {
         }
         return slow;
     }
+
+
 }
 
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
